@@ -18,8 +18,8 @@
 
 ### 💻 **Habilidades Técnicas**
 - **Linguagens de Programação**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  Python | SQL | JavaScript | HTML | CSS | PHP | VBA 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white) ![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+
 
 - **Ferramentas e Frameworks**:  
   Pandas | Selenium | Looker Studio | Google Apps Script | Angular | DJango  
